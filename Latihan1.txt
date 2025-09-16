@@ -2,3 +2,7 @@ Pada latihan 1 ini saya sudah;
 1. membuat akun github
 2. Membuat repository
 3. Melakukan Edit pada file readme.txt
+
+Pada latihan ini juga saya sudah;
+a. Membuat file latihan1.txt
+b. Mencoba membuat Branch
