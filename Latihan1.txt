@@ -1,0 +1,4 @@
+Pada latihan 1 ini saya sudah;
+1. membuat akun github
+2. Membuat repository
+3. Melakukan Edit pada file readme.txt
