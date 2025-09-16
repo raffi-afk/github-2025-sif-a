@@ -6,3 +6,5 @@ Pada latihan 1 ini saya sudah;
 Pada latihan ini juga saya sudah;
 a. Membuat file latihan1.txt
 b. Mencoba membuat Branch
+
+Melakukan update hanya pada branch sesi-3
